@@ -1,5 +1,3 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+我目前是西安电子科技大学博士生，主要研究方向为 SAR 舰船目标检测、雷达信号处理和深度学习。
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
-
-My current research focuses on investigating the mathematical principles of natural philosophy.
+我的研究兴趣包括 SAR 图像处理、目标检测和人工智能。
